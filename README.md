@@ -63,7 +63,7 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - **Workspace Setup:**<br>
-   ⭐ Laptop: **Dell ** <br>
+   ⭐ Laptop: **Dell Inspiron 15** <br>
    ⭐ Processor: **Intel I5** <br>
    ⭐ Graphics: **Integrated Radeon Graphics** <br>
    ⭐ RAM: **16GB** <br>
