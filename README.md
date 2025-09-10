@@ -85,7 +85,7 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 </p>
 
 
-💡 **"Striving to make the web a better place, one project at a time!"**
+💡 **"The only way to win is to not be afraid of losing!  Ratan Tata"**
 
 
 
