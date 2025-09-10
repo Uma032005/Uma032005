@@ -23,7 +23,7 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Sof
 <p align="left">
   
 <!-- LinkdIn -->
-<a href="www.linkedin.com/in/umamahe-k-" target="LinkdIn">
+<a href="https://www.linkedin.com/in/umamahe-k-/" target="LinkdIn">
 <img
 src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
